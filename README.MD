@@ -1,1 +1,2 @@
-My name is jaemin KIMgit init
+My name is jaemin KIM
+
